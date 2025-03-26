@@ -7,7 +7,7 @@ The goal of this project is to implement and analyze the modified Cholesky-Banac
 A x = b
 \]
 
-where \( A \in \mathbb{R}^{n \times n} \) is a positive definite symmetric tridiagonal matrix, and \( b \in \mathbb{R}^n \).
+where A is a real positive definite symmetric tridiagonal matrix, and b is a vector.
 
 ## Report
 The final report for the project can be found in the file **sprawozdanie_projekt2.pdf**.
